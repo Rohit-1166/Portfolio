@@ -316,7 +316,7 @@ button.button-85 .top {
   border-radius: 12px;
   font-weight: bold;
   font-size: 18px;
-  box-shadow: 0 8px 15px rgba(138, 191, 24, 0.5);
+  box-shadow: 0 8px 15px rgba(144, 207, 7, 0.5);
   transition: transform 0.1s ease, box-shadow 0.1s ease;
   position: relative;
   overflow: hidden;
