@@ -22,4 +22,4 @@ A modern portfolio example for any user.
 2. Open `index.html` in browser
 
 ## Author
-Your Name
+Rohit Kumar
